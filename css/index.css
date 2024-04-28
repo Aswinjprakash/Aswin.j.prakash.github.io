@@ -1,0 +1,58 @@
+/* Body */
+#parent {
+  font-family: arial;
+}
+
+/* Navbar & Logo */
+#logo {
+  border-radius: 50%;
+}
+
+.logo-text {
+  font-family: "Audiowide", cursive;
+  color: #53512A;
+}
+
+.navbar {
+  background-color: #FEB100;
+}
+
+/* Toolbar */
+#toolbar {
+  background-color: #53512A;
+}
+
+#toolbar a {
+  color: white;
+}
+
+#toolbar a:active {
+  color: #FEB100;
+}
+
+/* Card Config */
+.card-link {
+  text-decoration-line: none;
+}
+
+.card-text {
+  font-size: 10px;
+}
+
+#card_1, #card_2 {
+  padding: 10px;
+  box-shadow: 5px 10px 8px #888888;
+}
+
+/* Footer */
+.footer {
+  background-color: #FEB100;
+  color: #53512A;
+  font-size: 10px;
+}
+
+/* Toggle Dark */
+.toggle-dark-class {
+  background-color: #101417;
+  color: white;
+}
